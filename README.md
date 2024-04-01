@@ -8,8 +8,8 @@
 - Compatível com todos os dispositivos móveis e com uma interface de usuário bonita e agradável.
 - Obrigado pela visita 😄
 
-> ## Preview:
-![Preview.png](https://github.com/MRINMOY662/Modern-Portfolio-Website-Template/blob/main/preview.png)
+> ## Visualizar:
+Veja mais nesse link: https://portfolio-enzo-gabriel.vercel.app/
 
 
 
